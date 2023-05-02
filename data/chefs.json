@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "name": "Massimo Bottura",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Massimo_Bottura_in_2018.jpg",
+      "years_of_experience": 35,
+      "number_of_recipes": 150,
+      "likes": 3500,
+      "short_bio": "Massimo Bottura is an Italian restaurateur and the chef patron of Osteria Francescana, a three-Michelin-star restaurant based in Modena, Italy."
+    },
+    {
+      "id": 2,
+      "name": "Gualtiero Marchesi",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Gualtiero_Marchesi.jpg",
+      "years_of_experience": 50,
+      "number_of_recipes": 200,
+      "likes": 2800,
+      "short_bio": "Gualtiero Marchesi was an Italian chef and restaurateur, considered to be the founder of modern Italian cuisine."
+    },
+    {
+      "id": 3,
+      "name": "Lidia Bastianich",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/6/66/Lidia_Bastianich.JPG",
+      "years_of_experience": 45,
+      "number_of_recipes": 120,
+      "likes": 2200,
+      "short_bio": "Lidia Bastianich is an Italian-American celebrity chef, television host, author, and restaurateur."
+    },
+    {
+      "id": 4,
+      "name": "Carlo Cracco",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Carlo_Cracco_2.JPG",
+      "years_of_experience": 30,
+      "number_of_recipes": 100,
+      "likes": 1900,
+      "short_bio": "Carlo Cracco is an Italian chef and television personality, known for his role as a judge on the Italian version of MasterChef."
+    },
+    {
+      "id": 5,
+      "name": "Davide Oldani",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Davide_Oldani.jpg",
+      "years_of_experience": 25,
+      "number_of_recipes": 80,
+      "likes": 1500,
+      "short_bio": "Davide Oldani is an Italian chef and restaurateur, known for his innovative approach to traditional Italian cuisine."
+    },
+    {
+      "id": 6,
+      "name": "Enrico Crippa",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Enrico_Crippa.jpg",
+      "years_of_experience": 20,
+      "number_of_recipes": 60,
+      "likes": 1200,
+      "short_bio": "Enrico Crippa is an Italian chef and the owner of Piazza Duomo, a three-Michelin-star restaurant located in Alba, Italy."
+    }
+  ]
