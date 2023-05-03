@@ -1,0 +1,23 @@
+[
+    {
+      "name": "John Smith",
+      "designation": "Founder and CEO",
+      "picture": "https://cdn.hswstatic.com/gif/play/0b7f4e9b-f59c-4024-9f06-b3dc12850ab7-1920-1080.jpg"
+    },
+    {
+      "name": "Jane Doe",
+      "designation": "Head Chef",
+      "picture": "https://images.healthshots.com/healthshots/en/uploads/2020/12/08182549/positive-person.jpg"
+    },
+    {
+      "name": "Mark Johnson",
+      "designation": "Marketing Director",
+      "picture": "https://www.investnational.com.au/wp-content/uploads/2016/08/person-stock-2.png"
+    },
+    {
+      "name": "Sarah Lee",
+      "designation": "Customer Service Manager",
+      "picture": "https://www.investnational.com.au/wp-content/uploads/2016/08/person-stock-2.png"
+    }
+  ]
+  

@@ -1,6 +1,7 @@
 [
   {
     "name": "Spaghetti alla Carbonara",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Espaguetis_carbonara.jpg/800px-Espaguetis_carbonara.jpg",
     "ingredients": [
       "400g spaghetti",
       "200g guanciale or pancetta, diced",
@@ -15,6 +16,7 @@
   },
   {
     "name": "Spaghetti alla Carbonara",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Espaguetis_carbonara.jpg/800px-Espaguetis_carbonara.jpg",
     "ingredients": [
       "400g spaghetti",
       "200g guanciale or pancetta, diced",
@@ -29,6 +31,7 @@
   },
   {
     "name": "Spaghetti alla Carbonara",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Espaguetis_carbonara.jpg/800px-Espaguetis_carbonara.jpg",
     "ingredients": [
       "400g spaghetti",
       "200g guanciale or pancetta, diced",
@@ -42,7 +45,55 @@
     "chef_id": 3
   },
   {
+    "name": "Spaghetti alla Carbonara",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Espaguetis_carbonara.jpg/800px-Espaguetis_carbonara.jpg",
+    "ingredients": [
+      "400g spaghetti",
+      "200g guanciale or pancetta, diced",
+      "4 large eggs",
+      "1 cup freshly grated pecorino romano cheese",
+      "2 cloves garlic, finely chopped",
+      "Salt and freshly ground black pepper to taste"
+    ],
+    "cooking_method": "1. Cook spaghetti according to package instructions.\n2. In a large skillet, cook guanciale or pancetta over medium heat until crispy.\n3. In a small bowl, whisk together eggs, pecorino romano cheese, garlic, salt, and pepper.\n4. Drain spaghetti and add to the skillet with the guanciale or pancetta. Toss to coat.\n5. Remove from heat and add egg mixture, tossing quickly to prevent the eggs from scrambling.\n6. Serve immediately, garnished with additional pecorino romano cheese and black pepper.",
+    "rating": 4.5,
+    "chef_id": 4
+  },
+  {
+    "name": "Spaghetti alla Carbonara",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Espaguetis_carbonara.jpg/800px-Espaguetis_carbonara.jpg",
+    "ingredients": [
+      "400g spaghetti",
+      "200g guanciale or pancetta, diced",
+      "4 large eggs",
+      "1 cup freshly grated pecorino romano cheese",
+      "2 cloves garlic, finely chopped",
+      "Salt and freshly ground black pepper to taste"
+    ],
+    "cooking_method": "1. Cook spaghetti according to package instructions.\n2. In a large skillet, cook guanciale or pancetta over medium heat until crispy.\n3. In a small bowl, whisk together eggs, pecorino romano cheese, garlic, salt, and pepper.\n4. Drain spaghetti and add to the skillet with the guanciale or pancetta. Toss to coat.\n5. Remove from heat and add egg mixture, tossing quickly to prevent the eggs from scrambling.\n6. Serve immediately, garnished with additional pecorino romano cheese and black pepper.",
+    "rating": 4.5,
+    "chef_id": 5
+  },
+  {
+    "name": "Spaghetti alla Carbonara",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Espaguetis_carbonara.jpg/800px-Espaguetis_carbonara.jpg",
+    "ingredients": [
+      "400g spaghetti",
+      "200g guanciale or pancetta, diced",
+      "4 large eggs",
+      "1 cup freshly grated pecorino romano cheese",
+      "2 cloves garlic, finely chopped",
+      "Salt and freshly ground black pepper to taste"
+    ],
+    "cooking_method": "1. Cook spaghetti according to package instructions.\n2. In a large skillet, cook guanciale or pancetta over medium heat until crispy.\n3. In a small bowl, whisk together eggs, pecorino romano cheese, garlic, salt, and pepper.\n4. Drain spaghetti and add to the skillet with the guanciale or pancetta. Toss to coat.\n5. Remove from heat and add egg mixture, tossing quickly to prevent the eggs from scrambling.\n6. Serve immediately, garnished with additional pecorino romano cheese and black pepper.",
+    "rating": 4.5,
+    "chef_id": 6
+  },
+
+
+  {
     "name": "Risotto ai Funghi",
+    "image":"https://cdn.tasteatlas.com/images/dishes/a1d7859e89b244debca33541a32e4f4b.jpg?w=600",
     "ingredients": [
       "400g Arborio rice",
       "1L hot chicken or vegetable stock",
@@ -61,6 +112,7 @@
   },
   {
     "name": "Risotto ai Funghi",
+    "image":"https://cdn.tasteatlas.com/images/dishes/a1d7859e89b244debca33541a32e4f4b.jpg?w=600",
     "ingredients": [
       "400g Arborio rice",
       "1L hot chicken or vegetable stock",
@@ -79,6 +131,7 @@
   },
   {
     "name": "Risotto ai Funghi",
+    "image":"https://cdn.tasteatlas.com/images/dishes/a1d7859e89b244debca33541a32e4f4b.jpg?w=600",
     "ingredients": [
       "400g Arborio rice",
       "1L hot chicken or vegetable stock",
@@ -96,7 +149,65 @@
     "chef_id": 1
   },
   {
+    "name": "Risotto ai Funghi",
+    "image":"https://cdn.tasteatlas.com/images/dishes/a1d7859e89b244debca33541a32e4f4b.jpg?w=600",
+    "ingredients": [
+      "400g Arborio rice",
+      "1L hot chicken or vegetable stock",
+      "500g mushrooms, sliced",
+      "1 onion, finely chopped",
+      "2 cloves garlic, minced",
+      "1/2 cup white wine",
+      "1/2 cup grated parmesan cheese",
+      "2 tablespoons butter",
+      "2 tablespoons olive oil",
+      "Salt and freshly ground black pepper to taste"
+    ],
+    "cooking_method": "1. In a large saucepan, heat the olive oil over medium heat. Add onion and garlic and cook until translucent.\n2. Add mushrooms and cook until softened.\n3. Add Arborio rice and stir to coat with the oil and mushrooms. Cook for 1-2 minutes, stirring constantly.\n4. Add white wine and stir until absorbed.\n5. Gradually add hot stock, 1 cup at a time, stirring constantly and waiting for each addition to be absorbed before adding the next.\n6. Continue to cook and stir until rice is tender and creamy.\n7. Remove from heat and stir in butter and parmesan cheese.\n8. Season with salt and pepper to taste.\n9. Serve hot.",
+    "rating": 4.8,
+    "chef_id": 4
+  },
+  {
+    "name": "Risotto ai Funghi",
+    "image":"https://cdn.tasteatlas.com/images/dishes/a1d7859e89b244debca33541a32e4f4b.jpg?w=600",
+    "ingredients": [
+      "400g Arborio rice",
+      "1L hot chicken or vegetable stock",
+      "500g mushrooms, sliced",
+      "1 onion, finely chopped",
+      "2 cloves garlic, minced",
+      "1/2 cup white wine",
+      "1/2 cup grated parmesan cheese",
+      "2 tablespoons butter",
+      "2 tablespoons olive oil",
+      "Salt and freshly ground black pepper to taste"
+    ],
+    "cooking_method": "1. In a large saucepan, heat the olive oil over medium heat. Add onion and garlic and cook until translucent.\n2. Add mushrooms and cook until softened.\n3. Add Arborio rice and stir to coat with the oil and mushrooms. Cook for 1-2 minutes, stirring constantly.\n4. Add white wine and stir until absorbed.\n5. Gradually add hot stock, 1 cup at a time, stirring constantly and waiting for each addition to be absorbed before adding the next.\n6. Continue to cook and stir until rice is tender and creamy.\n7. Remove from heat and stir in butter and parmesan cheese.\n8. Season with salt and pepper to taste.\n9. Serve hot.",
+    "rating": 4.8,
+    "chef_id": 5
+  },
+  {
+    "name": "Risotto ai Funghi",
+    "image":"https://cdn.tasteatlas.com/images/dishes/a1d7859e89b244debca33541a32e4f4b.jpg?w=600",
+    "ingredients": [
+      "400g Arborio rice",
+      "1L hot chicken or vegetable stock",
+      "500g mushrooms, sliced",
+      "1 onion, finely chopped",
+      "2 cloves garlic, minced",
+      "1/2 cup white wine",
+      "1/2 cup grated parmesan cheese",
+      "2 tablespoons butter",
+      "2 tablespoons olive oil",
+      "Salt and freshly ground black pepper to taste"
+    ],
+    "cooking_method": "1. In a large saucepan, heat the olive oil over medium heat. Add onion and garlic and cook until translucent.\n2. Add mushrooms and cook until softened.\n3. Add Arborio rice and stir to coat with the oil and mushrooms. Cook for 1-2 minutes, stirring constantly.\n4. Add white wine and stir until absorbed.\n5. Gradually add hot stock, 1 cup at a time, stirring constantly and waiting for each addition to be absorbed before adding the next.\n6. Continue to cook and stir until rice is tender and creamy.\n7. Remove from heat and stir in butter and parmesan cheese.\n8. Season with salt and pepper to taste.\n9. Serve hot.",
+    "rating": 4.8,
+    "chef_id": 6
+  },
+  {
     "name": "Pesto alla Genovese",
+    "image":"https://cucinare.meglio.it/img/piatti/linguine-al-pesto.jpg",
     "ingredients": [
       "2 cups fresh basil leaves",
       "1/2 cup grated parmesan cheese",
@@ -111,6 +222,7 @@
   },
   {
     "name": "Pesto alla Genovese",
+    "image":"https://cucinare.meglio.it/img/piatti/linguine-al-pesto.jpg",
     "ingredients": [
       "2 cups fresh basil leaves",
       "1/2 cup grated parmesan cheese",
@@ -125,6 +237,7 @@
   },
   {
     "name": "Pesto alla Genovese",
+    "image":"https://cucinare.meglio.it/img/piatti/linguine-al-pesto.jpg",
     "ingredients": [
       "2 cups fresh basil leaves",
       "1/2 cup grated parmesan cheese",
@@ -136,6 +249,51 @@
     "cooking_method": "1. In a food processor, combine basil leaves, parmesan cheese, pine nuts, and garlic. Pulse until finely chopped.\n2. With the food processor running, slowly pour in the olive oil until the pesto is smooth and well combined.\n3. Season with salt and pepper to taste.\n4. Serve with pasta, bread, or vegetables.",
     "rating": 4.2,
     "chef_id": 1
+  },
+  {
+    "name": "Pesto alla Genovese",
+    "image":"https://cucinare.meglio.it/img/piatti/linguine-al-pesto.jpg",
+    "ingredients": [
+      "2 cups fresh basil leaves",
+      "1/2 cup grated parmesan cheese",
+      "1/3 cup pine nuts",
+      "3 cloves garlic, peeled",
+      "1/2 cup olive oil",
+      "Salt and freshly ground black pepper to taste"
+    ],
+    "cooking_method": "1. In a food processor, combine basil leaves, parmesan cheese, pine nuts, and garlic. Pulse until finely chopped.\n2. With the food processor running, slowly pour in the olive oil until the pesto is smooth and well combined.\n3. Season with salt and pepper to taste.\n4. Serve with pasta, bread, or vegetables.",
+    "rating": 4.2,
+    "chef_id": 4
+  },
+  {
+    "name": "Pesto alla Genovese",
+    "image":"https://cucinare.meglio.it/img/piatti/linguine-al-pesto.jpg",
+    "ingredients": [
+      "2 cups fresh basil leaves",
+      "1/2 cup grated parmesan cheese",
+      "1/3 cup pine nuts",
+      "3 cloves garlic, peeled",
+      "1/2 cup olive oil",
+      "Salt and freshly ground black pepper to taste"
+    ],
+    "cooking_method": "1. In a food processor, combine basil leaves, parmesan cheese, pine nuts, and garlic. Pulse until finely chopped.\n2. With the food processor running, slowly pour in the olive oil until the pesto is smooth and well combined.\n3. Season with salt and pepper to taste.\n4. Serve with pasta, bread, or vegetables.",
+    "rating": 4.2,
+    "chef_id": 5
+  },
+  {
+    "name": "Pesto alla Genovese",
+    "image":"https://cucinare.meglio.it/img/piatti/linguine-al-pesto.jpg",
+    "ingredients": [
+      "2 cups fresh basil leaves",
+      "1/2 cup grated parmesan cheese",
+      "1/3 cup pine nuts",
+      "3 cloves garlic, peeled",
+      "1/2 cup olive oil",
+      "Salt and freshly ground black pepper to taste"
+    ],
+    "cooking_method": "1. In a food processor, combine basil leaves, parmesan cheese, pine nuts, and garlic. Pulse until finely chopped.\n2. With the food processor running, slowly pour in the olive oil until the pesto is smooth and well combined.\n3. Season with salt and pepper to taste.\n4. Serve with pasta, bread, or vegetables.",
+    "rating": 4.2,
+    "chef_id": 6
   }
 ]
 
