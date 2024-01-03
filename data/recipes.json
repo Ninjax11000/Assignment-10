@@ -10,9 +10,11 @@
       "2 cloves garlic, finely chopped",
       "Salt and freshly ground black pepper to taste"
     ],
-    "cooking_method": "1. Cook spaghetti according to package instructions.\n2. In a large skillet, cook guanciale or pancetta over medium heat until crispy.\n3. In a small bowl, whisk together eggs, pecorino romano cheese, garlic, salt, and pepper.\n4. Drain spaghetti and add to the skillet with the guanciale or pancetta. Toss to coat.\n5. Remove from heat and add egg mixture, tossing quickly to prevent the eggs from scrambling.\n6. Serve immediately, garnished with additional pecorino romano cheese and black pepper.",
+    "cooking_method": " Cook spaghetti according to package instructions. In a large skillet, cook guanciale or pancetta over medium heat until crispy. In a small bowl, whisk together eggs, pecorino romano cheese, garlic, salt, and pepper. Drain spaghetti and add to the skillet with the guanciale or pancetta. Toss to coat. Remove from heat and add egg mixture, tossing quickly to prevent the eggs from scrambling. Serve immediately, garnished with additional pecorino romano cheese and black pepper.",
     "rating": 4.5,
-    "chef_id": 1
+    "chef_id": 1,
+    "new":1,
+    "id":1
   },
   {
     "name": "Spaghetti alla Carbonara",
@@ -25,9 +27,11 @@
       "2 cloves garlic, finely chopped",
       "Salt and freshly ground black pepper to taste"
     ],
-    "cooking_method": "1. Cook spaghetti according to package instructions.\n2. In a large skillet, cook guanciale or pancetta over medium heat until crispy.\n3. In a small bowl, whisk together eggs, pecorino romano cheese, garlic, salt, and pepper.\n4. Drain spaghetti and add to the skillet with the guanciale or pancetta. Toss to coat.\n5. Remove from heat and add egg mixture, tossing quickly to prevent the eggs from scrambling.\n6. Serve immediately, garnished with additional pecorino romano cheese and black pepper.",
+    "cooking_method": " Cook spaghetti according to package instructions. In a large skillet, cook guanciale or pancetta over medium heat until crispy. In a small bowl, whisk together eggs, pecorino romano cheese, garlic, salt, and pepper. Drain spaghetti and add to the skillet with the guanciale or pancetta. Toss to coat. Remove from heat and add egg mixture, tossing quickly to prevent the eggs from scrambling. Serve immediately, garnished with additional pecorino romano cheese and black pepper.",
     "rating": 4.5,
-    "chef_id": 2
+    "chef_id": 2,
+    "new":0,
+    "id":2
   },
   {
     "name": "Spaghetti alla Carbonara",
@@ -40,9 +44,11 @@
       "2 cloves garlic, finely chopped",
       "Salt and freshly ground black pepper to taste"
     ],
-    "cooking_method": "1. Cook spaghetti according to package instructions.\n2. In a large skillet, cook guanciale or pancetta over medium heat until crispy.\n3. In a small bowl, whisk together eggs, pecorino romano cheese, garlic, salt, and pepper.\n4. Drain spaghetti and add to the skillet with the guanciale or pancetta. Toss to coat.\n5. Remove from heat and add egg mixture, tossing quickly to prevent the eggs from scrambling.\n6. Serve immediately, garnished with additional pecorino romano cheese and black pepper.",
+    "cooking_method": " Cook spaghetti according to package instructions. In a large skillet, cook guanciale or pancetta over medium heat until crispy. In a small bowl, whisk together eggs, pecorino romano cheese, garlic, salt, and pepper. Drain spaghetti and add to the skillet with the guanciale or pancetta. Toss to coat. Remove from heat and add egg mixture, tossing quickly to prevent the eggs from scrambling. Serve immediately, garnished with additional pecorino romano cheese and black pepper.",
     "rating": 4.5,
-    "chef_id": 3
+    "chef_id": 3,
+    "new":0,
+    "id":3
   },
   {
     "name": "Spaghetti alla Carbonara",
@@ -55,9 +61,11 @@
       "2 cloves garlic, finely chopped",
       "Salt and freshly ground black pepper to taste"
     ],
-    "cooking_method": "1. Cook spaghetti according to package instructions.\n2. In a large skillet, cook guanciale or pancetta over medium heat until crispy.\n3. In a small bowl, whisk together eggs, pecorino romano cheese, garlic, salt, and pepper.\n4. Drain spaghetti and add to the skillet with the guanciale or pancetta. Toss to coat.\n5. Remove from heat and add egg mixture, tossing quickly to prevent the eggs from scrambling.\n6. Serve immediately, garnished with additional pecorino romano cheese and black pepper.",
+    "cooking_method": " Cook spaghetti according to package instructions. In a large skillet, cook guanciale or pancetta over medium heat until crispy. In a small bowl, whisk together eggs, pecorino romano cheese, garlic, salt, and pepper. Drain spaghetti and add to the skillet with the guanciale or pancetta. Toss to coat. Remove from heat and add egg mixture, tossing quickly to prevent the eggs from scrambling. Serve immediately, garnished with additional pecorino romano cheese and black pepper.",
     "rating": 4.5,
-    "chef_id": 4
+    "chef_id": 4,
+    "new":0,
+    "id":4
   },
   {
     "name": "Spaghetti alla Carbonara",
@@ -70,9 +78,11 @@
       "2 cloves garlic, finely chopped",
       "Salt and freshly ground black pepper to taste"
     ],
-    "cooking_method": "1. Cook spaghetti according to package instructions.\n2. In a large skillet, cook guanciale or pancetta over medium heat until crispy.\n3. In a small bowl, whisk together eggs, pecorino romano cheese, garlic, salt, and pepper.\n4. Drain spaghetti and add to the skillet with the guanciale or pancetta. Toss to coat.\n5. Remove from heat and add egg mixture, tossing quickly to prevent the eggs from scrambling.\n6. Serve immediately, garnished with additional pecorino romano cheese and black pepper.",
+    "cooking_method": " Cook spaghetti according to package instructions. In a large skillet, cook guanciale or pancetta over medium heat until crispy. In a small bowl, whisk together eggs, pecorino romano cheese, garlic, salt, and pepper. Drain spaghetti and add to the skillet with the guanciale or pancetta. Toss to coat. Remove from heat and add egg mixture, tossing quickly to prevent the eggs from scrambling. Serve immediately, garnished with additional pecorino romano cheese and black pepper.",
     "rating": 4.5,
-    "chef_id": 5
+    "chef_id": 5,
+    "new":0,
+    "id":5
   },
   {
     "name": "Spaghetti alla Carbonara",
@@ -85,9 +95,11 @@
       "2 cloves garlic, finely chopped",
       "Salt and freshly ground black pepper to taste"
     ],
-    "cooking_method": "1. Cook spaghetti according to package instructions.\n2. In a large skillet, cook guanciale or pancetta over medium heat until crispy.\n3. In a small bowl, whisk together eggs, pecorino romano cheese, garlic, salt, and pepper.\n4. Drain spaghetti and add to the skillet with the guanciale or pancetta. Toss to coat.\n5. Remove from heat and add egg mixture, tossing quickly to prevent the eggs from scrambling.\n6. Serve immediately, garnished with additional pecorino romano cheese and black pepper.",
+    "cooking_method": " Cook spaghetti according to package instructions. In a large skillet, cook guanciale or pancetta over medium heat until crispy. In a small bowl, whisk together eggs, pecorino romano cheese, garlic, salt, and pepper. Drain spaghetti and add to the skillet with the guanciale or pancetta. Toss to coat. Remove from heat and add egg mixture, tossing quickly to prevent the eggs from scrambling. Serve immediately, garnished with additional pecorino romano cheese and black pepper.",
     "rating": 4.5,
-    "chef_id": 6
+    "chef_id": 6,
+    "new":0,
+    "id":6
   },
 
 
@@ -106,9 +118,11 @@
       "2 tablespoons olive oil",
       "Salt and freshly ground black pepper to taste"
     ],
-    "cooking_method": "1. In a large saucepan, heat the olive oil over medium heat. Add onion and garlic and cook until translucent.\n2. Add mushrooms and cook until softened.\n3. Add Arborio rice and stir to coat with the oil and mushrooms. Cook for 1-2 minutes, stirring constantly.\n4. Add white wine and stir until absorbed.\n5. Gradually add hot stock, 1 cup at a time, stirring constantly and waiting for each addition to be absorbed before adding the next.\n6. Continue to cook and stir until rice is tender and creamy.\n7. Remove from heat and stir in butter and parmesan cheese.\n8. Season with salt and pepper to taste.\n9. Serve hot.",
+    "cooking_method": " In a large saucepan, heat the olive oil over medium heat. Add onion and garlic and cook until translucent. Add mushrooms and cook until softened. Add Arborio rice and stir to coat with the oil and mushrooms. Cook for 1-2 minutes, stirring constantly. Add white wine and stir until absorbed. Gradually add hot stock, 1 cup at a time, stirring constantly and waiting for each addition to be absorbed before adding the next. Continue to cook and stir until rice is tender and creamy. Remove from heat and stir in butter and parmesan cheese. Season with salt and pepper to taste. Serve hot.",
     "rating": 4.8,
-    "chef_id": 3
+    "chef_id": 3,
+    "new":1,
+    "id":7
   },
   {
     "name": "Risotto ai Funghi",
@@ -125,9 +139,11 @@
       "2 tablespoons olive oil",
       "Salt and freshly ground black pepper to taste"
     ],
-    "cooking_method": "1. In a large saucepan, heat the olive oil over medium heat. Add onion and garlic and cook until translucent.\n2. Add mushrooms and cook until softened.\n3. Add Arborio rice and stir to coat with the oil and mushrooms. Cook for 1-2 minutes, stirring constantly.\n4. Add white wine and stir until absorbed.\n5. Gradually add hot stock, 1 cup at a time, stirring constantly and waiting for each addition to be absorbed before adding the next.\n6. Continue to cook and stir until rice is tender and creamy.\n7. Remove from heat and stir in butter and parmesan cheese.\n8. Season with salt and pepper to taste.\n9. Serve hot.",
+    "cooking_method": " In a large saucepan, heat the olive oil over medium heat. Add onion and garlic and cook until translucent. Add mushrooms and cook until softened. Add Arborio rice and stir to coat with the oil and mushrooms. Cook for 1-2 minutes, stirring constantly. Add white wine and stir until absorbed. Gradually add hot stock, 1 cup at a time, stirring constantly and waiting for each addition to be absorbed before adding the next. Continue to cook and stir until rice is tender and creamy. Remove from heat and stir in butter and parmesan cheese. Season with salt and pepper to taste. Serve hot.",
     "rating": 4.8,
-    "chef_id": 2
+    "chef_id": 2,
+    "new":0,
+    "id":8
   },
   {
     "name": "Risotto ai Funghi",
@@ -144,9 +160,11 @@
       "2 tablespoons olive oil",
       "Salt and freshly ground black pepper to taste"
     ],
-    "cooking_method": "1. In a large saucepan, heat the olive oil over medium heat. Add onion and garlic and cook until translucent.\n2. Add mushrooms and cook until softened.\n3. Add Arborio rice and stir to coat with the oil and mushrooms. Cook for 1-2 minutes, stirring constantly.\n4. Add white wine and stir until absorbed.\n5. Gradually add hot stock, 1 cup at a time, stirring constantly and waiting for each addition to be absorbed before adding the next.\n6. Continue to cook and stir until rice is tender and creamy.\n7. Remove from heat and stir in butter and parmesan cheese.\n8. Season with salt and pepper to taste.\n9. Serve hot.",
+    "cooking_method": " In a large saucepan, heat the olive oil over medium heat. Add onion and garlic and cook until translucent. Add mushrooms and cook until softened. Add Arborio rice and stir to coat with the oil and mushrooms. Cook for 1-2 minutes, stirring constantly. Add white wine and stir until absorbed. Gradually add hot stock, 1 cup at a time, stirring constantly and waiting for each addition to be absorbed before adding the next. Continue to cook and stir until rice is tender and creamy. Remove from heat and stir in butter and parmesan cheese. Season with salt and pepper to taste. Serve hot.",
     "rating": 4.8,
-    "chef_id": 1
+    "chef_id": 1,
+    "new":0,
+    "id":9
   },
   {
     "name": "Risotto ai Funghi",
@@ -163,9 +181,11 @@
       "2 tablespoons olive oil",
       "Salt and freshly ground black pepper to taste"
     ],
-    "cooking_method": "1. In a large saucepan, heat the olive oil over medium heat. Add onion and garlic and cook until translucent.\n2. Add mushrooms and cook until softened.\n3. Add Arborio rice and stir to coat with the oil and mushrooms. Cook for 1-2 minutes, stirring constantly.\n4. Add white wine and stir until absorbed.\n5. Gradually add hot stock, 1 cup at a time, stirring constantly and waiting for each addition to be absorbed before adding the next.\n6. Continue to cook and stir until rice is tender and creamy.\n7. Remove from heat and stir in butter and parmesan cheese.\n8. Season with salt and pepper to taste.\n9. Serve hot.",
+    "cooking_method": " In a large saucepan, heat the olive oil over medium heat. Add onion and garlic and cook until translucent. Add mushrooms and cook until softened. Add Arborio rice and stir to coat with the oil and mushrooms. Cook for 1-2 minutes, stirring constantly. Add white wine and stir until absorbed. Gradually add hot stock, 1 cup at a time, stirring constantly and waiting for each addition to be absorbed before adding the next. Continue to cook and stir until rice is tender and creamy. Remove from heat and stir in butter and parmesan cheese. Season with salt and pepper to taste. Serve hot.",
     "rating": 4.8,
-    "chef_id": 4
+    "chef_id": 4,
+    "new":0,
+    "id":10
   },
   {
     "name": "Risotto ai Funghi",
@@ -182,9 +202,11 @@
       "2 tablespoons olive oil",
       "Salt and freshly ground black pepper to taste"
     ],
-    "cooking_method": "1. In a large saucepan, heat the olive oil over medium heat. Add onion and garlic and cook until translucent.\n2. Add mushrooms and cook until softened.\n3. Add Arborio rice and stir to coat with the oil and mushrooms. Cook for 1-2 minutes, stirring constantly.\n4. Add white wine and stir until absorbed.\n5. Gradually add hot stock, 1 cup at a time, stirring constantly and waiting for each addition to be absorbed before adding the next.\n6. Continue to cook and stir until rice is tender and creamy.\n7. Remove from heat and stir in butter and parmesan cheese.\n8. Season with salt and pepper to taste.\n9. Serve hot.",
+    "cooking_method": " In a large saucepan, heat the olive oil over medium heat. Add onion and garlic and cook until translucent. Add mushrooms and cook until softened. Add Arborio rice and stir to coat with the oil and mushrooms. Cook for 1-2 minutes, stirring constantly. Add white wine and stir until absorbed. Gradually add hot stock, 1 cup at a time, stirring constantly and waiting for each addition to be absorbed before adding the next. Continue to cook and stir until rice is tender and creamy. Remove from heat and stir in butter and parmesan cheese. Season with salt and pepper to taste. Serve hot.",
     "rating": 4.8,
-    "chef_id": 5
+    "chef_id": 5,
+    "new":0,
+    "id":11
   },
   {
     "name": "Risotto ai Funghi",
@@ -201,9 +223,11 @@
       "2 tablespoons olive oil",
       "Salt and freshly ground black pepper to taste"
     ],
-    "cooking_method": "1. In a large saucepan, heat the olive oil over medium heat. Add onion and garlic and cook until translucent.\n2. Add mushrooms and cook until softened.\n3. Add Arborio rice and stir to coat with the oil and mushrooms. Cook for 1-2 minutes, stirring constantly.\n4. Add white wine and stir until absorbed.\n5. Gradually add hot stock, 1 cup at a time, stirring constantly and waiting for each addition to be absorbed before adding the next.\n6. Continue to cook and stir until rice is tender and creamy.\n7. Remove from heat and stir in butter and parmesan cheese.\n8. Season with salt and pepper to taste.\n9. Serve hot.",
+    "cooking_method": " In a large saucepan, heat the olive oil over medium heat. Add onion and garlic and cook until translucent. Add mushrooms and cook until softened. Add Arborio rice and stir to coat with the oil and mushrooms. Cook for 1-2 minutes, stirring constantly. Add white wine and stir until absorbed. Gradually add hot stock, 1 cup at a time, stirring constantly and waiting for each addition to be absorbed before adding the next. Continue to cook and stir until rice is tender and creamy. Remove from heat and stir in butter and parmesan cheese. Season with salt and pepper to taste. Serve hot.",
     "rating": 4.8,
-    "chef_id": 6
+    "chef_id": 6,
+    "new":0,
+    "id":12
   },
   {
     "name": "Pesto alla Genovese",
@@ -216,9 +240,11 @@
       "1/2 cup olive oil",
       "Salt and freshly ground black pepper to taste"
     ],
-    "cooking_method": "1. In a food processor, combine basil leaves, parmesan cheese, pine nuts, and garlic. Pulse until finely chopped.\n2. With the food processor running, slowly pour in the olive oil until the pesto is smooth and well combined.\n3. Season with salt and pepper to taste.\n4. Serve with pasta, bread, or vegetables.",
+    "cooking_method": " In a food processor, combine basil leaves, parmesan cheese, pine nuts, and garlic. Pulse until finely chopped. With the food processor running, slowly pour in the olive oil until the pesto is smooth and well combined. Season with salt and pepper to taste.\n4. Serve with pasta, bread, or vegetables.",
     "rating": 4.2,
-    "chef_id": 2
+    "chef_id": 2,
+    "new":1,
+    "id":13
   },
   {
     "name": "Pesto alla Genovese",
@@ -231,9 +257,11 @@
       "1/2 cup olive oil",
       "Salt and freshly ground black pepper to taste"
     ],
-    "cooking_method": "1. In a food processor, combine basil leaves, parmesan cheese, pine nuts, and garlic. Pulse until finely chopped.\n2. With the food processor running, slowly pour in the olive oil until the pesto is smooth and well combined.\n3. Season with salt and pepper to taste.\n4. Serve with pasta, bread, or vegetables.",
+    "cooking_method": " In a food processor, combine basil leaves, parmesan cheese, pine nuts, and garlic. Pulse until finely chopped. With the food processor running, slowly pour in the olive oil until the pesto is smooth and well combined. Season with salt and pepper to taste.\n4. Serve with pasta, bread, or vegetables.",
     "rating": 4.2,
-    "chef_id": 3
+    "chef_id": 3,
+    "new":0,
+    "id":14
   },
   {
     "name": "Pesto alla Genovese",
@@ -246,9 +274,11 @@
       "1/2 cup olive oil",
       "Salt and freshly ground black pepper to taste"
     ],
-    "cooking_method": "1. In a food processor, combine basil leaves, parmesan cheese, pine nuts, and garlic. Pulse until finely chopped.\n2. With the food processor running, slowly pour in the olive oil until the pesto is smooth and well combined.\n3. Season with salt and pepper to taste.\n4. Serve with pasta, bread, or vegetables.",
+    "cooking_method": " In a food processor, combine basil leaves, parmesan cheese, pine nuts, and garlic. Pulse until finely chopped. With the food processor running, slowly pour in the olive oil until the pesto is smooth and well combined. Season with salt and pepper to taste.\n4. Serve with pasta, bread, or vegetables.",
     "rating": 4.2,
-    "chef_id": 1
+    "chef_id": 1,
+    "new":0,
+    "id":15
   },
   {
     "name": "Pesto alla Genovese",
@@ -261,9 +291,11 @@
       "1/2 cup olive oil",
       "Salt and freshly ground black pepper to taste"
     ],
-    "cooking_method": "1. In a food processor, combine basil leaves, parmesan cheese, pine nuts, and garlic. Pulse until finely chopped.\n2. With the food processor running, slowly pour in the olive oil until the pesto is smooth and well combined.\n3. Season with salt and pepper to taste.\n4. Serve with pasta, bread, or vegetables.",
+    "cooking_method": " In a food processor, combine basil leaves, parmesan cheese, pine nuts, and garlic. Pulse until finely chopped. With the food processor running, slowly pour in the olive oil until the pesto is smooth and well combined. Season with salt and pepper to taste.\n4. Serve with pasta, bread, or vegetables.",
     "rating": 4.2,
-    "chef_id": 4
+    "chef_id": 4,
+    "new":0,
+    "id":16
   },
   {
     "name": "Pesto alla Genovese",
@@ -276,9 +308,11 @@
       "1/2 cup olive oil",
       "Salt and freshly ground black pepper to taste"
     ],
-    "cooking_method": "1. In a food processor, combine basil leaves, parmesan cheese, pine nuts, and garlic. Pulse until finely chopped.\n2. With the food processor running, slowly pour in the olive oil until the pesto is smooth and well combined.\n3. Season with salt and pepper to taste.\n4. Serve with pasta, bread, or vegetables.",
+    "cooking_method": " In a food processor, combine basil leaves, parmesan cheese, pine nuts, and garlic. Pulse until finely chopped. With the food processor running, slowly pour in the olive oil until the pesto is smooth and well combined. Season with salt and pepper to taste.\n4. Serve with pasta, bread, or vegetables.",
     "rating": 4.2,
-    "chef_id": 5
+    "chef_id": 5,
+    "new":0,
+    "id":17
   },
   {
     "name": "Pesto alla Genovese",
@@ -291,9 +325,30 @@
       "1/2 cup olive oil",
       "Salt and freshly ground black pepper to taste"
     ],
-    "cooking_method": "1. In a food processor, combine basil leaves, parmesan cheese, pine nuts, and garlic. Pulse until finely chopped.\n2. With the food processor running, slowly pour in the olive oil until the pesto is smooth and well combined.\n3. Season with salt and pepper to taste.\n4. Serve with pasta, bread, or vegetables.",
+    "cooking_method": " In a food processor, combine basil leaves, parmesan cheese, pine nuts, and garlic. Pulse until finely chopped. With the food processor running, slowly pour in the olive oil until the pesto is smooth and well combined. Season with salt and pepper to taste. Serve with pasta, bread, or vegetables.",
     "rating": 4.2,
-    "chef_id": 6
-  }
+    "chef_id": 6,
+    "new":0,
+    "id":18
+  },
+  {
+    "name": "Melanzane alla Parmigiana",
+    "image": "https://d2sj0xby2hzqoy.cloudfront.net/kenwood_italy/attachments/data/000/008/122/medium/parmigiana-di-melanzane.jpg",
+    "ingredients": [
+        "2 large eggplants, thinly sliced",
+        "2 cups marinara sauce",
+        "1 cup grated mozzarella cheese",
+        "1/2 cup grated Parmesan cheese",
+        "Fresh basil leaves for garnish",
+        "Salt and freshly ground black pepper to taste",
+        "Olive oil for frying"
+    ],
+    "cooking_method": "Sprinkle salt on the eggplant slices and let them sit for about 30 minutes to release excess moisture. Pat them dry with paper towels. In a large skillet, heat olive oil over medium-high heat. Fry the eggplant slices until golden brown on both sides. Drain on paper towels. Preheat the oven to 375°F (190°C). In a baking dish, spread a layer of marinara sauce. Place a layer of fried eggplant slices on top. Sprinkle with mozzarella and Parmesan cheese. Repeat the layers, finishing with a layer of cheese on top. Bake in the preheated oven for about 25-30 minutes, or until the cheese is melted and bubbly. Garnish with fresh basil leaves before serving.",
+    "rating": 4.8,
+    "chef_id": 6,
+    "new": 1,
+    "id":19
+}
+
 ]
 

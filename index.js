@@ -26,6 +26,20 @@ app.get("/recipes/:id", (req, res) => {
     res.send(chefRecipe);
   
 });
+app.get("/recipe/:id", (req, res) => {
+  const id = req.params.id;
+  
+    const newRecipe = recipes.find((n) => n.id== id);
+    res.send(newRecipe);
+  
+});
+app.get("/newrecipes", (req, res) => {
+ 
+  
+    const newRecipes = recipes.filter((n) => n.new== 1);
+    res.send(newRecipes);
+  
+});
 app.get("/chefs/:id", (req, res) => {
   const id = req.params.id;
   
